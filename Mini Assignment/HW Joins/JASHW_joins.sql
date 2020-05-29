@@ -37,7 +37,6 @@ SELECT
 		, players.player 
 		, players.height 
 		, players.weight
-		, 
 		, players.born
 		, seasons_stats.position
 		, seasons_stats.tm
